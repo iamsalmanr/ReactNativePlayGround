@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "24090637631",
+    "project_id": "loginregistrationapp-a795e",
+    "storage_bucket": "loginregistrationapp-a795e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24090637631:android:e87ab5dc3bb7c641704f8a",
+        "android_client_info": {
+          "package_name": "com.loginregistrationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24090637631-qc5jko8njp2b93c0oh3umt1uubaqgcoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loginregistrationapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "24090637631-rq9lnk1ota6o474rmbom8nlb9jt78n7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMNQWLat4JRAKndFGeGYmVWAm0QUD8iyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24090637631-rq9lnk1ota6o474rmbom8nlb9jt78n7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
