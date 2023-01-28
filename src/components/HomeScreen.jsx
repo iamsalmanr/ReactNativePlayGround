@@ -48,7 +48,7 @@ export default function HomeScreen ({navigation}) {
           { isAdmin ? (
             <Button title="Admin Protected" onPress={() => navigation.navigate('AdminOnly')} />
           ) : (
-            <Button title="User Protected" onPress={() => navigation.navigate('AdminOnly')} />
+            <Button title="User Protected" onPress={() => navigation.navigate('UserOnly')} />
           ) }
           
         

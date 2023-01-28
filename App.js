@@ -15,6 +15,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import HomeScreen from './src/components/HomeScreen';
 import RegisterScreen from './src/components/RegisterScreen';
 import AdminOnly from './src/components/AdminOnly';
+import UserOnly from './src/components/UserOnly';
 
 
 const Stack = createStackNavigator();
@@ -29,6 +30,7 @@ function App () {
           <Stack.Screen name="Register" component={RegisterScreen} />
           <Stack.Screen name="Home" component={HomeScreen} />
           <Stack.Screen name="AdminOnly" component={AdminOnly} />
+          <Stack.Screen name="UserOnly" component={UserOnly} />
 
         </Stack.Navigator>
       </NavigationContainer>
